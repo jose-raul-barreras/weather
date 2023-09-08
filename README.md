@@ -3,9 +3,12 @@
 Retrieve and parse weather data from the National Weather Service (NWS) API
 
 ## Installation
+ 
+Clone the repo and install the dependencies.  
 
-Clone the repo and install the dependencies.
-`pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt
+```
 
 ## Running the program 
 
